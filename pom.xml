@@ -47,7 +47,7 @@
   </build>
   <dependencies>
     <dependency>
-      <groupId>org.springframework</groupId>
+      <groupId>jb-hello-world-maven</groupId>
       <artifactId>jb-hello-world-maven</artifactId>
       <version>0.2.0</version>
       <scope>test</scope>
